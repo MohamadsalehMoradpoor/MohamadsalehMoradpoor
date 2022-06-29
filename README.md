@@ -1,25 +1,14 @@
-### Hi there, I'm Mohamad - Also Known As [MR Programmer78](https://www.instagram.com/mr.programmer78) 👋
-
-
+### Hi there, I'm Don - Also Known As [MR Programmer78](https://www.instagram.com/mr.programmer78) 👋
 
 ### Connect with me:
 
-
-
 [<img align="left" alt="codeSTACKr | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/+54Kl8M-SGohjYTY8)
-
-
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://www.linkedin.com/in/saleh-moradpour-753bb3221/)
 
-
-
-
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mohammadsalehmoradpoor@gmail.com)
 
-
-
-
+<br />
 
 ### Languages and Tools:
 
