@@ -44,3 +44,8 @@
 
 ![MohamadsalehMoradpoor](https://github-readme-stats.vercel.app/api?username=MohamadsalehMoradpoor&show_icons=true&theme=shades-of-purple)
 
+---
+- 🔭 I’m currently working on ... Freelancers
+- 🌱 I’m currently learning ... Data Science
+- 📫 How to reach me: ... [twitter](@mohamadMo696)
+- ⚡ Fun fact: ... I am half Finish
