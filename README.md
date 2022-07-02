@@ -33,7 +33,7 @@
 
 [<img align="left" alt="codeSTACKr | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/+54Kl8M-SGohjYTY8)
 
-[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://www.linkedin.com/in/saleh-moradpour-753bb3221/)
+[<img align="left" alt="codeSTACKr | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://www.linkedin.com/in/mohamadsaleh-moradpoor-753bb3221/)
 
 <br />
 <br />
